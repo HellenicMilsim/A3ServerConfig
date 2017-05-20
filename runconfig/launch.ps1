@@ -1,6 +1,9 @@
 # Hellenic Milsim server launch script version 2.0
 # This script is launched from the root ArmA 3 directory
 
+# If you're getting problems with execution policy, launch with
+# powershell -ExecutionPolicy ByPass -File launch.ps1
+
 # config=...
 $configPath = 'basic.server.cfg'
 
