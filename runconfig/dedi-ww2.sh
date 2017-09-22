@@ -1,0 +1,25 @@
+start "A3 Server" arma3server_x64.exe ^
+-hugePages ^
+-profiles=C:\Arma3\A3Master ^
+-config=basicww2.server.cfg ^
+-cfg=network.cfg ^
+-world=empty ^
+-mod=mods\@CBA_A3; ^
+-mod=mods\@ace3; ^
+-mod=mods\@acex_a3; ^
+-mod=mods\@ares_mod_achilles_expansion; ^
+-mod=mods\@ASR_AI3; ^
+-mod=mods\@bc_phoenix; ^
+-mod=mods\@realarmor; ^
+-mod=mods\@shacktac_user_interface; ^
+-mod=mods\@skippy_roster; ^
+-mod=mods\@task_force_radio; ^
+-mod=mods\@werthles_headless_module; ^
+-mod=mods\@werthlesheadlesskit; ^
+-mod=mods\@EM; ^
+-mod=SPECIAL_EVENT_MODS\@fow; ^
+-mod=SPECIAL_EVENT_MODS\@i44_terrains; ^
+-mod=SPECIAL_EVENT_MODS\@ifa3_ace3_compatibility; ^
+-mod=SPECIAL_EVENT_MODS\@ifa3_terrains_lite; ^
+-mod=SPECIAL_EVENT_MODS\@ifa3lite; ^
+-mod=SPECIAL_EVENT_MODS\@ww2_objects; ^
