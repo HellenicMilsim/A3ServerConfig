@@ -17,9 +17,9 @@ start "A3 Server" arma3server_x64.exe ^
 -mod=mods\@werthles_headless_module; ^
 -mod=mods\@werthlesheadlesskit; ^
 -mod=mods\@EM; ^
--mod=SPECIAL_EVENT_MODS\@fow; ^
--mod=SPECIAL_EVENT_MODS\@i44_terrains; ^
--mod=SPECIAL_EVENT_MODS\@ifa3_ace3_compatibility; ^
--mod=SPECIAL_EVENT_MODS\@ifa3_terrains_lite; ^
--mod=SPECIAL_EVENT_MODS\@ifa3lite; ^
--mod=SPECIAL_EVENT_MODS\@ww2_objects; ^
+-mod=modsww2\@fow; ^
+-mod=modsww2\@i44_terrains; ^
+-mod=modsww2\@ifa3_ace3_compatibility; ^
+-mod=modsww2\@ifa3_terrains_lite; ^
+-mod=modsww2\@ifa3lite; ^
+-mod=modsww2\@ww2_objects;
