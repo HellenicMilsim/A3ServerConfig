@@ -1,6 +1,7 @@
 # Attempt to Start Arma3 server
 
-*/5 * * * * ./arma3server start
+*/5 * * * * ./server-start.sh arma3server
+#*/5 * * * * ./server-start.sh antistasi
 #*/5 * * * * ./arma3alive-takistan start
 
 
